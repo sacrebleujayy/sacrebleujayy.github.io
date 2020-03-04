@@ -21,14 +21,7 @@ I suggest using Firefox when using Burp Suite and downloading the [FoxyProxy Sta
 However, tthere are instructions for how to add it for different browsers and configurations: https://portswigger.net/burp/documentation/desktop/penetration-testing/configuring-your-browser
 
 ## Add the Burp Suite Certificate to Trusted Certs
-In BurpSuite -> Proxy -> Options -> Import / Export CA certificate  
--> Export -> Certificate and private key in PKCS#12 keystore  
-Add .p12 extension to whatever you give the file name  
-Open Keychain Access (Applications -> Utilities or search Spotlight)  
--> File -> Import Items ~(may have to select options and change to all files)~
-
-If you have a windows computer, hopefully this will help you: https://support.securly.com/hc/en-us/articles/360026808753-How-to-manually-install-the-Securly-SSL-certificate-on-Windows  
-Or linux/windows: https://thomas-leister.de/en/how-to-import-ca-root-certificate/
+Once Burp Suite Proxy is on, go to the proxy url + /cert: http://localhost:8080/cert and it will make everything happen for you!
 
 
 
