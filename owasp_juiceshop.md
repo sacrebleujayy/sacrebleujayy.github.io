@@ -10,10 +10,10 @@ https://portswigger.net/burp/releases/professional-community-2020-2
 Make sure to select community edition! Defaults to professional which you have to pay for.
 
 If you have a mac, you'll probably see the following error: 
-![Mac Burp Download Error][/images/burp_download_error.png]
+![Mac Burp Download Error](/images/burp_download_error.png)
 
 To allow downloading, you'll have to go into System Preferences -> Security & Privacy -> bottom of the General tab, you'll have to allow it to download:
-![Enable Mac Burp Download][/images/enable_burp_download.png]
+![Enable Mac Burp Download](/images/enable_burp_download.png)
 
 # Setup Burp Suite Proxy
 I suggest using Firefox when using Burp Suite and downloading the [FoxyProxy Standard add-on](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search). This allows you to turn the proxy on or off rather than having to remove it completely from system settings.
