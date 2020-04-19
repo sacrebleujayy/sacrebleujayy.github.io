@@ -1,0 +1,2 @@
+# sacrebleujayy.github.io
+I could use this as a note location for everythting I learn since it's publicly available. For instance, all my security tools could go in a folder of "web security". "Music theory" could go in another folder. "Software Engineer" folder. That way if I ever need to remember something, I have one place for it all, in a way I can understand, and since I'll frequently come back to figure out what I mean, I can update it then. If I ever need to study for an interview, I should be able to use this place to review what I need.
