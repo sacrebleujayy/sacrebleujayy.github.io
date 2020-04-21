@@ -7,8 +7,14 @@ While trying to do the Plaid2020 CTF, I realized I was missing a lot of tools (o
 
 ## [HTTP Request Smuggler](https://github.com/PortSwigger/http-request-smuggler)
 
+### How to Use
 - Download the BurpSuite Extension (Extender -> BApp Store -> HTTP Request Smuggler)
 - Grab the request you want to test (in proxy or repeater)
 - Right click the request
 - Select Launch Smuggle probe
 - Follow [these instructions](https://github.com/PortSwigger/http-request-smuggler)
+
+## [MitM Proxy](https://github.com/drk1wi/Modlishka)
+- Allows `sslstrip` will remove TLS (if it's not protected with [HSTS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+- Can choose the domain you want to spoof and it’ll transparently grab the real site and serve it from your own domain
+- Use in tandem with [Requestbin](https://requestbin.com/) or [ngrok](https://ngrok.com/)
