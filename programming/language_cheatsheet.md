@@ -15,6 +15,8 @@
 * Execution
 * Package Managers
 * Install Dependencies
+  * Fixing Dependency Hell
+    - Deleting lock files
 * Skeletons
 * Finding Reliable Libraries
 * Debuggers
