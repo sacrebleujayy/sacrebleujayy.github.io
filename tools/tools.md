@@ -3,15 +3,24 @@ While trying to do the Plaid2020 CTF, I realized I was missing a lot of tools (o
 Some interesting topics to look for tools on github are `bugbounty`, `bug-bounty`, [`penetration-testing`](https://github.com/topics/penetration-testing), `pentest`, `hacking`, `security`, `infosec`
 
 # List
-- HTTP Request Smuggler ()
+- [Web Vulnerability Scanners](https://www.concise-courses.com/hacking-tools/web-vulnerability-scanners/)
+- [Password Crackers](https://www.concise-courses.com/hacking-tools/password-crackers/)
+- [Burp Suite](https://portswigger.net/burp/communitydownload)
+  - [HTTP Request Smuggler](https://github.com/PortSwigger/http-request-smuggler)
 - Proxy (MitM attack where I can read the requests and intercept, like BurpSuite, but live) - see Catalog challenge
 - Site Mirrorer (maybe)
 - Public S3 bucket tools
 - [Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Debugging tools](https://www.concise-courses.com/hacking-tools/debuggers/)
+- [Package Sniffers](https://www.concise-courses.com/hacking-tools/packet-sniffers/)
+- [Web Proxy Hacking](https://www.concise-courses.com/hacking-tools/web-proxies/)
+- [Web Browser Tools](https://www.concise-courses.com/hacking-tools/web-browser-related-tools/)
+- [Port Scanner](https://www.concise-courses.com/hacking-tools/port-scanners/)
+- [Vulnerability Scanners](https://www.concise-courses.com/hacking-tools/vulnerability-scanners/)
 
-## [HTTP Request Smuggler](https://github.com/PortSwigger/http-request-smuggler)
-
-### How to Use
+## [Burp Suite](https://portswigger.net/burp/communitydownload)
+### [HTTP Request Smuggler](https://github.com/PortSwigger/http-request-smuggler)
+#### How to Use
 - Download the BurpSuite Extension (Extender -> BApp Store -> HTTP Request Smuggler)
 - Grab the request you want to test (in proxy or repeater)
 - Right click the request
@@ -27,3 +36,14 @@ Some interesting topics to look for tools on github are `bugbounty`, `bug-bounty
 - https://www.andreafortuna.org/2018/04/04/how-to-find-unsecured-s3-buckets-some-useful-tools/
 - https://github.com/jordanpotti/AWSBucketDump
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/AWS%20Amazon%20Bucket%20S3
+
+# Resources
+- https://www.concise-courses.com/hacking-tools/top-ten/
+- https://resources.infosecinstitute.com/category/certifications-training/ceh/ethical-hacking-tools/#gref
+- https://github.com/zardus/ctf-tools
+- https://medium.com/@int0x33/day-18-essential-ctf-tools-1f9af1552214
+- https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref
+- https://awesomeopensource.com/projects/ctf-tools
+- https://www.yeahhub.com/top-10-essential-ctf-tools-solving-reversing-challenges/ (Reverse Engineering Tools)
+- https://trailofbits.github.io/ctf/forensics/
+- https://apsdehal.in/awesome-ctf/
