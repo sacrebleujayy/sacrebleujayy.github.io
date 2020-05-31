@@ -17,6 +17,7 @@ Some interesting topics to look for tools on github are `bugbounty`, `bug-bounty
 - [Web Browser Tools](https://www.concise-courses.com/hacking-tools/web-browser-related-tools/)
 - [Port Scanner](https://www.concise-courses.com/hacking-tools/port-scanners/)
 - [Vulnerability Scanners](https://www.concise-courses.com/hacking-tools/vulnerability-scanners/)
+- Binary Decompilers: [Binary Ninja](https://binary.ninja/) (paid) & [Ghidra](https://ghidra-sre.org/) (free)
 
 ## [Burp Suite](https://portswigger.net/burp/communitydownload)
 ### [HTTP Request Smuggler](https://github.com/PortSwigger/http-request-smuggler)
