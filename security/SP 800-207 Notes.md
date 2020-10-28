@@ -1,5 +1,5 @@
 # Zero Trust Architecture
-(NIST Special Publication 800-207)[https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf]
+[NIST Special Publication 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
 
 ## 1. Introduction
 The complexity of a typical enterprise's infrastructure has defeated legacy methods of *perimeter-based network security*
